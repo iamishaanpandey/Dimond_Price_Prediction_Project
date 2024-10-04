@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Dimond_Price_Prediction_Project
+Version: 0.1
+Author: iamishaanpandey
+Author-email: iamishaanpandey@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: flask
